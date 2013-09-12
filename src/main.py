@@ -7,7 +7,12 @@ import weather
 
 
 def main():
-    print("Ca fonctionne pas trop 3.")
+    '''
+    Ca fonctionne quand j'utilise pas la 2way secure connection sur github qui utilise des mots de passes speciaux ...
+    '''
+    
+    weather.test()
+    
     print("Ca fonctionne seulement et seulement si Jean prends les commandes")
 
     
